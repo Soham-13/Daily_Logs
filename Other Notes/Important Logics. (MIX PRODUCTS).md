@@ -1,2 +1,3 @@
 1.  Konpare -> from Aussizz when the refund will be initiated the createdby will be inserted as first company owner.
 2.  AURA -> for legislation link validation the for super seeded URL as we find its new latest link for the latest in the database duplicity we wont check it using code or something else we will simply use on conflict approach at that time.  
+3. AUSSIZZ to Konpare OSHC inquiry save Konpare api end point:  tsaveinquiry
