@@ -15,7 +15,7 @@ AHM: firstname, policyno, policystartdate, policyenddate,  birthdate
 BUPA: firstname, policyno, amount, startdate, enddate, bithdate, covertype,
 Allianz: firstname, policyno, startdate, enddate, dob, covertype, amount
 NIB: firstname, policyno, startdate, enddate, covertype
-CBHS: firstname, dob, covertype, policyno, amount, startdte, enddate.
+CBHS: firstname, dob, covertype, policyno, startdte, enddate.
 
 
 

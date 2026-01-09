@@ -3,3 +3,4 @@
 3. compare json and change detection api and notify the mara agent and occusearch users.  in aura-knowledge-hub.
 4. take legislation latest updated date in the json as well. 
 5. understanding Occusearch SMA table from nikunj bhai.
+6. remind nikunj prajapati : publish ocr api
