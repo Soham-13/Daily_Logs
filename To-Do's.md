@@ -5,4 +5,4 @@
 5. get which visatype are included for whihc category in the json. 
 6. add cavet in the json if available in the pdf. 
 7. also implement the change detection for visatype as well. 
-8. revupro related discussion with utkarsh sir. 
+8. revupro related discussion with utkarsh sir. -> report generate for the automation review fetch, reply and delete script and also user management and chatgpt costing and all thing one page report generate. 
