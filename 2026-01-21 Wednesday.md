@@ -1,0 +1,1 @@
+1. revu pro ai melbourne reviews are not getting fetched so debugged that issue as of now. turns out to be refresh token was expired and again reconnected the location in the revupro so it worked properly and new reviews are fetched. 
