@@ -1,1 +1,2 @@
-1. revupro message(PS) discussion with US.
+1. revupro review analysis hugging face api pricing and response time analysis. 
+2. 
