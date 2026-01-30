@@ -14,4 +14,5 @@ CRON JOBS:
 ---------------
 Reply Model Used: 
 1. for auto replys we use chatgpt's "gpt-4o" model  if our prompt is around 50-60 lines then it will cost $0.0175/INR ~1.45 per call
-2. 
+----
+1. Refresh token and all the confidential things are stored encrypted in the database so make sure you decrypt them before you use. 
