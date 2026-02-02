@@ -1,3 +1,7 @@
-1.  Review Fetch & Delete Script revamp for large number of locations
-2.  Review Analysis Script Configuration to run on the production and monitoring. 
-3.  Review reply new automation architecture implementation. 
+1.  Google Review fetch scalable solution for large number of location and for the fresh location review fetch (40 ---> 400)
+2. Delete Review Script Revamp.
+3. Sentiment Analysis of Review Mechanism Implementation. 
+4. Review Reply mechanism prompt enahancement OR New SLM whihc should be free as we need only reply generation of small text. (R & D)
+5.  Yash scrapping help for act, policy and regulations. 
+---------
+Current Task Going on is: 5
